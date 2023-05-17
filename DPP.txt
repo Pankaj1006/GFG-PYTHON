@@ -1,0 +1,13 @@
+introduction
+keywords
+namespaces
+operators
+data types
+control flow
+function
+oop
+exeption handling
+file handling
+regex
+numpy
+pandas
